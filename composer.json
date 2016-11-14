@@ -1,8 +1,0 @@
-{
-    "repositories": {
-        "drupal": {
-            "type": "composer",
-            "url": "https://packages.drupal.org/7"
-        }
-    }
-}
